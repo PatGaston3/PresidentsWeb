@@ -128,7 +128,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Steven Zuber & Patrick Gaston</p>
+                    <h2>Steven Zuber & Patrick Gaston</h2>
                 </div>
             </div>
             <!-- /.row -->
