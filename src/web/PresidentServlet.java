@@ -18,7 +18,7 @@ public class PresidentServlet extends HttpServlet {
 	private PresDAO presDAO;
 	
 	public void init() throws ServletException {
-		System.out.println("In init method");
+//		System.out.println("In init method");
 		
 		presDAO = new PresFileDAO(getServletContext());
 	}		
