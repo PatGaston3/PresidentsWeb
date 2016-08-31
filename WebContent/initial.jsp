@@ -76,7 +76,7 @@
 						src="PresImages/${president.termNumber-1}.jpg" width="35%"><br>
 					<br>
 					<br>
-					<h1>${president.termNumber},
+					<h1>Term Number: ${president.termNumber},
 						${president.displayName}</h1><br>
 						<br>
 					<h3>${president.displayInfo}</h3>
